@@ -1,2 +1,2 @@
-# biznes
+# company
 my first portfolio
